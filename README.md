@@ -64,7 +64,7 @@ Este funciona em paralelo ao 3.
   - 5.5. Validar o escopo; 
   - 5.6. Controlar o escopo;
 - Cronograma
- - 6.6. Controlar o cronograma; 
+  - 6.6. Controlar o cronograma; 
 - Custos
   - 7.4. Controlar Custos;
 - Qualidade
