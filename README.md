@@ -58,37 +58,28 @@
 Este funciona em paralelo ao 3. 
 
 - Integração
-  - 4.5. Monitorar e controlar o projeto (o trabalho está sendo feito?); 
-  - 4.6. Realizar o controle integrado de mudanças (algo saiu diferente, escopo, tempo, não tinha fornecedor...);
- 
- - Escopo
+    - 4.5. Monitorar e controlar o projeto (o trabalho está sendo feito?); 
+    - 4.6. Realizar o controle integrado de mudanças (algo saiu diferente, escopo, tempo, não tinha fornecedor...);
+- Escopo
   - 5.5. Validar o escopo; 
   - 5.6. Controlar o escopo;
-  
 - Cronograma
-  - 6.6. Controlar o cronograma; 
-  
+ - 6.6. Controlar o cronograma; 
 - Custos
   - 7.4. Controlar Custos;
-  
 - Qualidade
   - 8.3. Controlar qualidade (onde vou usar mais as ferramentas de qualidade);
-  
 - Recursos 
   - 9.6. Controlar os recursos; 
-
 - Comunicações
   - 10.3. Monitorar as comunicações;
-  
 - Riscos    
   - 11.7 Monitorar os riscos (um atraso previsto); 
-
 - Aquisições
   - 12.3. Controlar aquisições;
-  
 - Partes interessadas
   - 13.4. Monitorar o engajamento de partes interessadas;
 
 # 5. Encerramento
 
- - 4.7. Encerrar o projeto ou fase. 
+- 4.7. Encerrar o projeto ou fase. 
